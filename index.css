@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+body{
+    max-height: 1200px;
+    max-width: 1200px;
+    margin-top: 300px;
+    margin: 300px;
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFC745;
+    border-radius: 20px;
+   
+}
+
+.container {
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    background-color: #232BFF;
+    border-radius: 20px;
+    -webkit-box-shadow: 11px 10px 5px 0px rgba(0,0,0,0.75);
+    overflow: hidden;
+}
+
+h2 {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    border-bottom: 1px solid;
+}
+
+.segundo-titulo {
+    padding: 20px;
+}
+
+.primeiro-paragrafo {
+    padding: 20px;
+    background-color: #FFC745;
+    color:#232BFF ;
+}
+
+.primeiro-autor {
+    padding: 20px;
+    background-color: #FFC745;
+    color: #232BFF;
+}
+
+.primeiro-link {
+    padding: 20px;
+    background-color: #FFC745;
+    color: #232BFF;
+}
+
+
+.terceiro-titulo {
+    padding: 20px;
+}
+
+.segundo-paragrafo {
+    padding: 20px;
+    background-color: #FFC745;
+    color: #232BFF;
+}
+
+.segundo-autor {
+    padding: 20px;
+    background-color: #FFC745;
+    color: #232BFF;
+}
+
+.segundo-link {
+    padding: 20px;
+    background-color: #FFC745;
+    color: #232BFF;
+}
+
+.quarto-titulo {
+    padding: 20px;
+}
+
+.terceito-paragrafo {
+    padding: 20px;
+    background-color: #FFC745;
+    color: #232BFF;
+}
+
+.terceiro-autor {
+    padding: 20px;
+    background-color: #FFC745;
+    color: #232BFF;
+}
+
+.terceiro-link {
+    padding: 20px;
+    background-color: #FFC745;
+    color: #232BFF;
+}
+
+.quinto-titulo {
+    padding: 20px;
+    background-color: #232BFF;
+
+}
+
+.quarto-paragrafo {
+    padding: 20px;
+    background-color: #FFC745;
+    color: #232BFF;
+}
+
+.quarto-autor {
+    padding: 20px;
+    background-color: #FFC745;
+    color: #232BFF;
+}
+
+.quarto-link {
+    padding: 20px;
+    background-color: #FFC745;
+    color: #232BFF;
+}
+
+.formulario {
+    padding: 20px;
+    background-color: #232BFF;
+}
+
+.sexto-titulo {
+    padding: 20px;
+}
+
+label {
+    padding: 20px;
+}
+
+.submit-button {
+    height: 47px; 
+    width: 127px;  
+    border: none;  
+    border-radius: 10px;
+    background-color: #FFC745;
+    color: #232BFF;
+}
+
+#input_text {
+    border: none;
+    border-bottom: 1px solid #FFC745; 
+    border-color: #FFC745;
+    margin-bottom: 10px;
+    background-color: transparent;
+}
+
+.submit-button:hover { 
+    color: black;
+    border: 1px solid black;
+
+}
+
+
+
+
+
+
+
+
+
